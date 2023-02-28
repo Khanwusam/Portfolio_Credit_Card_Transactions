@@ -1,5 +1,5 @@
 
---Analyzing the dataset
+--Analyzing the data set
 
 
 sp_help credit_card_transcations
