@@ -1,5 +1,7 @@
 --CASE STUDY --OLYMPIC HISTORY
 
+--Analyzing the dataset--
+
 Select * from athletes
 
 Select * from athlete_events
